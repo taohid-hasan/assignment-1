@@ -280,7 +280,7 @@ body{
   text-transform:uppercase; color:var(--blue); margin-bottom:10px;
 }
 
-/* Schedule section */
+/* AI section css */
 .schedule{background:var(--panel);}
 
 .day-tabs{
